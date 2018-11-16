@@ -29,6 +29,8 @@ So here is the result of what I made. I hope you will have fun with it!
 Ensure you have following installed:
 
   - [Visual Studio Community 2017](https://visualstudio.microsoft.com/downloads/)
+  
+  - [Cuda](https://developer.nvidia.com/cuda-downloads)
 
 ## Compile and run
 
