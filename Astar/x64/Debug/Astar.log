@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\opencv\build\include\opencv2\flann\result_set.h(306): warning C4003: nombre de paramètres réels insuffisants pour la macro 'max'
+c:\opencv\build\include\opencv2\flann\result_set.h(428): warning C4003: nombre de paramètres réels insuffisants pour la macro 'max'
+c:\opencv\build\include\opencv2\flann\lsh_index.h(203): warning C4003: nombre de paramètres réels insuffisants pour la macro 'max'
+c:\opencv\build\include\opencv2\flann\lsh_index.h(269): warning C4003: nombre de paramètres réels insuffisants pour la macro 'max'
+c:\astar-master\astar\axiscommunication.h(92): warning C4251: 'Axis::results' : class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' nécessite une interface DLL pour être utilisé(e) par les clients de class 'Axis'
+c:\astar-master\astar\axiscommunication.h(93): warning C4251: 'Axis::ErrorMsg' : class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' nécessite une interface DLL pour être utilisé(e) par les clients de class 'Axis'
+c:\astar-master\astar\axiscommunication.h(95): warning C4251: 'Axis::CamIpAdress' : class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' nécessite une interface DLL pour être utilisé(e) par les clients de class 'Axis'
+c:\astar-master\astar\axiscommunication.h(98): warning C4251: 'Axis::video_capture' : class 'cv::VideoCapture' nécessite une interface DLL pour être utilisé(e) par les clients de class 'Axis'
+  c:\opencv\build\include\opencv2\videoio.hpp(608): note: voir la déclaration de 'cv::VideoCapture'
+c:\astar-master\astar\axiscommunication.h(99): warning C4251: 'Axis::UserName' : class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' nécessite une interface DLL pour être utilisé(e) par les clients de class 'Axis'
+c:\astar-master\astar\axiscommunication.h(100): warning C4251: 'Axis::Password' : class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' nécessite une interface DLL pour être utilisé(e) par les clients de class 'Axis'
+  Astar.vcxproj -> C:\Astar-master\x64\Debug\Astar.exe

@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fichiers sources\Astar">
+      <UniqueIdentifier>{c84b748c-5c9d-410e-883f-4a6debdaab1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Astar">
+      <UniqueIdentifier>{83dea3c0-94b9-4d5f-abd8-a4d00ad9c327}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\UI">
+      <UniqueIdentifier>{df9f2d92-1e4d-4532-8ea4-452fe213b613}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\UI">
+      <UniqueIdentifier>{5c5fce44-eff0-407e-8afc-6153ca120785}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Axis">
+      <UniqueIdentifier>{7b12aa39-c385-46ec-a36d-203e19ea2c2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Axis">
+      <UniqueIdentifier>{e8f59127-f616-4082-9dff-9ec846bf9368}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Astar.h">
+      <Filter>Fichiers d%27en-tête\Astar</Filter>
+    </ClInclude>
+    <ClInclude Include="Grid.h">
+      <Filter>Fichiers d%27en-tête\Astar</Filter>
+    </ClInclude>
+    <ClInclude Include="NodeList.h">
+      <Filter>Fichiers d%27en-tête\Astar</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>Fichiers d%27en-tête\Astar</Filter>
+    </ClInclude>
+    <ClInclude Include="NodeGrid.h">
+      <Filter>Fichiers d%27en-tête\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectDetection.h">
+      <Filter>Fichiers d%27en-tête\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="AxisCommunication.h">
+      <Filter>Fichiers d%27en-tête\Axis</Filter>
+    </ClInclude>
+    <ClInclude Include="AxisMergeImage.h">
+      <Filter>Fichiers d%27en-tête\Axis</Filter>
+    </ClInclude>
+    <ClInclude Include="parcel.h">
+      <Filter>Fichiers d%27en-tête\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Astar.cpp">
+      <Filter>Fichiers sources\Astar</Filter>
+    </ClCompile>
+    <ClCompile Include="Grid.cpp">
+      <Filter>Fichiers sources\Astar</Filter>
+    </ClCompile>
+    <ClCompile Include="Node.cpp">
+      <Filter>Fichiers sources\Astar</Filter>
+    </ClCompile>
+    <ClCompile Include="NodeList.cpp">
+      <Filter>Fichiers sources\Astar</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectDetection.cpp">
+      <Filter>Fichiers sources\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="NodeGrid.cpp">
+      <Filter>Fichiers sources\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="AxisMergeImage.cpp">
+      <Filter>Fichiers sources\Axis</Filter>
+    </ClCompile>
+    <ClCompile Include="Parcel.cpp">
+      <Filter>Fichiers sources\UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CudaCompile Include="Kernel.cu">
+      <Filter>Fichiers sources</Filter>
+    </CudaCompile>
+  </ItemGroup>
+</Project>
