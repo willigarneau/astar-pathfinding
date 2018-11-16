@@ -19,7 +19,7 @@ So here is the result of what I made. I hope you will have fun with it!
 **Note :** There is some code in the project to create a merge frame from 2 images. We are using a camera at school which can't take the whole path. For more informations about the camera, visit https://www.axis.com/fr-ca.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/33030290/48456899-b7cf7980-e78e-11e8-8501-9347a126e81e.PNG"><br>
+  <img src="https://user-images.githubusercontent.com/33030290/48629115-cd0ef880-e986-11e8-9aee-0a27e89308ca.PNG"><br>
 </p>
 
 ---
