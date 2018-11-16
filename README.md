@@ -2,7 +2,7 @@
   <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg"><br>
   <img src="https://api.codacy.com/project/badge/Grade/e28ff30817f945c4b782a383e2711f8d"/></a><br>
-  Made with OpenCV and Cuda in C++
+  Made with OpenCV and Cuda, written in C++
   </p>
 
 ### Summary of the project
