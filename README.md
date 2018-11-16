@@ -54,7 +54,7 @@ helpful for you to spot the difference to yours.
 
 <b>OS</b>
 
-```c++
+```text
 Windows 10 2018
 ```
 
