@@ -75,4 +75,4 @@ None for this project, it's for the purpose of a class
 
 # Contributors
 
-Made by William Garneau and Pascal Canuel
+Made by [William Garneau](https://github.com/Thyix) and [Pascal Canuel](https://github.com/pascal-canuel)
