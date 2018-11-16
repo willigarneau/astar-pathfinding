@@ -30,7 +30,7 @@ Ensure you have following installed:
 
   - [Visual Studio Community 2017](https://visualstudio.microsoft.com/downloads/)
   
-  - [Cuda](https://developer.nvidia.com/cuda-downloads)
+  - [Cuda (Compute Unified Device Architecture)](https://developer.nvidia.com/cuda-downloads)
 
 ## Compile and run
 
