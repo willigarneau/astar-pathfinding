@@ -62,7 +62,7 @@ Windows 10 2018
 
 You can find the last version of OpenCV by following this [link](https://www.opencv.org/)
 
-<b>Cuda</b>
+<b>Cuda (Compute Unified Device Architecture)</b>
 
 Installing Cuda in Visual Studio is a real pain. I recommend you to use an existing project if you don't wanna waste time.
 
